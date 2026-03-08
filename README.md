@@ -1,4 +1,4 @@
-# h-core-# H-Core Snapshot
+# H-Core Snapshot
 
 A fixed artifact that stabilizes LLM execution-mode.
 
