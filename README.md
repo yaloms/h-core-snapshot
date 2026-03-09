@@ -1,9 +1,37 @@
 # H-Core Snapshot
+# H-Core Snapshot
 
 A fixed artifact that stabilizes LLM execution-mode.
 
 Prevents behavioral drift and unsolicited initiative in task-oriented conversations.
 
+## Why
+
+Most LLM conversations drift over time.
+
+Models start structured but gradually become verbose,
+explanatory and initiative-heavy.
+
+H-Core Snapshot stabilizes the execution-mode.
+
+## Demo
+
+Same input.
+
+### Default model
+
+[screenshot]
+
+### With H-Core Snapshot
+
+[screenshot]
+
+## Access
+
+Get access to H-Core Snapshot ($49)
+
+Stripe checkout:
+[link]
 ## Demo
 
 Same input.
