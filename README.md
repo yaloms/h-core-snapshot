@@ -15,24 +15,6 @@ H-Core Snapshot stabilizes the execution-mode.
 
 ## Demo
 
-Same prompt.
-
-### Default model
-
-[screenshot]
-
-### With H-Core Snapshot
-
-[screenshot]
-
-## Access
-
-Get access to H-Core Snapshot ($49)
-
-Stripe checkout:
-[link]
-## Demo
-
 Same input.
 
 ### Default model
@@ -44,7 +26,14 @@ shot]
 
 [scree<img width="1706" height="483" alt="Screenshot 2026-01-14 at 12-38-51 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/b67a3840-1868-486c-9c6e-1f639d5d115b" />
 nshot]
+## What it is
 
+H-Core Snapshot is a fixed text artifact inserted at the start
+of a conversation.
+
+It locks a stable execution-mode and prevents conversational drift.
+
+Use as-is.
 ## Access
-
+Get access to H-Core Snapshot ($49)
 [link]snapshot
