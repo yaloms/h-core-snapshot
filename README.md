@@ -1,5 +1,4 @@
 # H-Core Snapshot
-# H-Core Snapshot
 
 A fixed artifact that stabilizes LLM execution-mode.
 
@@ -16,7 +15,7 @@ H-Core Snapshot stabilizes the execution-mode.
 
 ## Demo
 
-Same input.
+Same prompt.
 
 ### Default model
 
