@@ -29,7 +29,6 @@ of a conversation.
 It locks a stable execution-mode and prevents conversational drift.
 Use as-is.
 ## Access
-## Access
 
 Get access to H-Core Snapshot ($49)
 
