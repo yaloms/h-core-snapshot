@@ -24,7 +24,8 @@ How can model drift be stabilized in production systems?
 
 ### H-Core Snapshot
 
-<img width="1706" height="483" alt="Screenshot 2026-01-14 at 12-38-51 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/b67a3840-1868-486c-9c6e-1f639d5d115b" />
+<img width="1340" height="431" alt="Screenshot 2026-03-14 at 18-32-02 H-Core Snapshot - Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8e4f75ce-cab8-498f-bb9c-bf3635527b59" />
+
 ## What is it
 
 H-Core Snapshot is a fixed text artifact inserted at the start
