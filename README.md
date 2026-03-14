@@ -13,7 +13,11 @@ explanatory and initiative-heavy.
 H-Core Snapshot stabilizes the execution-mode.
 
 ## Demo
-Same input.
+
+Prompt:
+
+How can model drift be stabilized in production systems?
+
 ### Default model
 
 screen<img width="1479" height="572" alt="Screenshot 2026-01-14 at 12-37-33 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/bd9c7cf3-9cc7-4751-a591-36a5522b94b3" />
