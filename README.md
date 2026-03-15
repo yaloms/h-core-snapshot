@@ -4,7 +4,9 @@ A fixed artifact that stabilizes LLM execution-mode.
 
 Prevents behavioral drift and unsolicited initiative in task-oriented conversations.
 
-Insert at the start of a conversation. Use as-is.
+H-Core Snapshot is a pre-configured conversation snapshot provided as a hosted ChatGPT tool.
+
+Access to the snapshot is provided via a private ChatGPT link.
 
 ## Why
 Most LLM conversations drift over time.
