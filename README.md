@@ -4,6 +4,8 @@ A fixed artifact that stabilizes LLM execution-mode.
 
 Prevents behavioral drift and unsolicited initiative in task-oriented conversations.
 
+Insert at the start of a conversation. Use as-is.
+
 ## Why
 Most LLM conversations drift over time.
 
