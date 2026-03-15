@@ -42,8 +42,7 @@ of a conversation.
 It locks a stable execution-mode and prevents conversational drift.
 Use as-is.
 ## Access
-
-Get access to H-Core Snapshot ($49)
+Get access to the H-Core Snapshot conversation snapshot ($49)
 
 Stripe checkout:  
 https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00
