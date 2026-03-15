@@ -8,6 +8,16 @@ H-Core Snapshot is a pre-configured conversation snapshot provided as a hosted C
 
 Access to the snapshot is provided via a private ChatGPT link.
 
+## Mechanism
+
+H-Core Snapshot works by constraining the conversational execution mode.
+
+The snapshot initializes a conversation with a fixed set of behavioral constraints that bias the model toward structured, operational responses.
+
+The goal is not to change the model, but to stabilize the interaction mode over longer threads.
+
+In practice this prevents the typical drift toward verbose explanations and unsolicited suggestions.
+
 ## Why
 Most LLM conversations drift over time.
 
