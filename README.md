@@ -18,10 +18,11 @@ explanatory and initiative-heavy.
 
 H-Core Snapshot stabilizes the execution-mode.
 
-## Demo
+Demo
+
+Same prompt. Two conversations.
 
 Prompt:
-
 How can model drift be stabilized in production systems?
 
 ### Default model
