@@ -18,7 +18,7 @@ explanatory and initiative-heavy.
 
 H-Core Snapshot stabilizes the execution-mode.
 
-Demo
+# Demo
 
 Same prompt. Two conversations.
 
