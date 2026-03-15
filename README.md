@@ -24,7 +24,6 @@ Same prompt. Two conversations.
 Prompt:
 How can model drift be stabilized in production systems?
 
-Default model
 
 ### Default model
 
