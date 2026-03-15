@@ -1,12 +1,9 @@
 # H-Core Snapshot
+A pre-configured ChatGPT conversation snapshot that stabilizes LLM execution mode.
 
-A fixed artifact that stabilizes LLM execution-mode.
+It prevents behavioral drift and unsolicited initiative in task-oriented conversations.
 
-Prevents behavioral drift and unsolicited initiative in task-oriented conversations.
-
-H-Core Snapshot is a pre-configured conversation snapshot provided as a hosted ChatGPT tool.
-
-Access to the snapshot is provided via a private ChatGPT link.
+Access is provided via a private ChatGPT link.
 
 ## Mechanism
 The snapshot initializes a conversation with fixed behavioral constraints that bias the model toward structured operational responses.
