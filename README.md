@@ -16,6 +16,7 @@ How can model drift be stabilized in production systems?
 
 ### H-Core Snapshot
 <img width="1675" height="468" alt="Screenshot 2026-03-16 at 18-58-51 563577441-8e4f75ce-cab8-498f-bb9c-bf3635527b59 png (изображение «PNG» 1340 × 431 пикселей)" src="https://github.com/user-attachments/assets/7c8be590-1099-402e-b96b-c5325ea171b9" />
+
 ## Use cases
 
 • research workflows  
