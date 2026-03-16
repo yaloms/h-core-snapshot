@@ -18,8 +18,11 @@ explanatory and initiative-heavy.
 
 H-Core Snapshot stabilizes the execution-mode.
 
+
 # Demo
 Same prompt. Two conversations.
+Default ChatGPT drifts into explanation.
+H-Core Snapshot executes the task.
 
 Prompt:
 How can model drift be stabilized in production systems?
@@ -35,11 +38,11 @@ How can model drift be stabilized in production systems?
 
 ## What is it
 
-H-Core Snapshot is a fixed text artifact inserted at the start
-of a conversation.
+H-Core Snapshot is a structured conversation initialization snapshot
 
 It locks a stable execution-mode and prevents conversational drift.
 Use as-is.
+
 ## Access
 Get access to the H-Core Snapshot conversation snapshot ($49)
 
