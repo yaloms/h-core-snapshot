@@ -30,11 +30,12 @@ How can model drift be stabilized in production systems?
 
 ### Default model
 
-<img width="1479" height="572" alt="Screenshot 2026-01-14 at 12-37-33 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/bd9c7cf3-9cc7-4751-a591-36a5522b94b3" />
+<img width="1756" height="572" alt="Screenshot 2026-03-16 at 18-58-22 559959351-bd9c7cf3-9cc7-4751-a591-36a5522b94b3 png (изображение «PNG» 1479 × 572 пикселей)" src="https://github.com/user-attachments/assets/79080287-a73c-493a-9996-80a40c8b56ee" />
+
 
 ### H-Core Snapshot
+<img width="1675" height="468" alt="Screenshot 2026-03-16 at 18-58-51 563577441-8e4f75ce-cab8-498f-bb9c-bf3635527b59 png (изображение «PNG» 1340 × 431 пикселей)" src="https://github.com/user-attachments/assets/7c8be590-1099-402e-b96b-c5325ea171b9" />
 
-<img width="1340" height="431" alt="Screenshot 2026-03-14 at 18-32-02 H-Core Snapshot - Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8e4f75ce-cab8-498f-bb9c-bf3635527b59" />
 
 ## What is it
 
