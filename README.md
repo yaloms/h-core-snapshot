@@ -1,5 +1,5 @@
 # H-Core Snapshot
-A pre-configured ChatGPT conversation snapshot that stabilizes LLM execution mode.
+A conversation snapshot that stabilizes the execution mode of ChatGPT.
 
 It prevents behavioral drift and unsolicited initiative in task-oriented conversations.
 
@@ -12,9 +12,7 @@ The goal is to stabilize the interaction mode and prevent the typical drift towa
 
 ## Why
 Most LLM conversations drift over time.
-
-Models start structured but gradually become verbose,
-explanatory and initiative-heavy.
+Models start structured but gradually become verbose and explanatory.
 
 H-Core Snapshot stabilizes the execution-mode.
 
@@ -39,13 +37,13 @@ How can model drift be stabilized in production systems?
 
 ## What is it
 
-H-Core Snapshot is a structured conversation initialization snapshot
+H-Core Snapshot is a structured conversation initialization snapshot.
 
 It locks a stable execution-mode and prevents conversational drift.
 Use as-is.
 
 ## Access
-Get access to the H-Core Snapshot conversation snapshot ($49)
+Get access to H-Core Snapshot ($49)
 
 Stripe checkout:  
 https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00
