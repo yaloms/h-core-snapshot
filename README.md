@@ -1,20 +1,9 @@
 # H-Core Snapshot
-A conversation snapshot that stabilizes the execution mode of ChatGPT.
+A conversation snapshot that keeps ChatGPT in execution mode.
 
 It prevents behavioral drift and unsolicited initiative in task-oriented conversations.
 
 Access is provided via a private ChatGPT link.
-
-## Mechanism
-The snapshot initializes a conversation with fixed behavioral constraints that bias the model toward structured operational responses.
-
-The goal is to stabilize the interaction mode and prevent the typical drift toward verbose explanations.
-
-## Why
-Most LLM conversations drift over time.
-Models start structured but gradually become verbose and explanatory.
-
-H-Core Snapshot stabilizes the execution-mode.
 
 
 # Demo
@@ -34,6 +23,17 @@ How can model drift be stabilized in production systems?
 ### H-Core Snapshot
 <img width="1675" height="468" alt="Screenshot 2026-03-16 at 18-58-51 563577441-8e4f75ce-cab8-498f-bb9c-bf3635527b59 png (изображение «PNG» 1340 × 431 пикселей)" src="https://github.com/user-attachments/assets/7c8be590-1099-402e-b96b-c5325ea171b9" />
 
+## Mechanism
+The snapshot initializes a conversation with fixed behavioral constraints that bias the model toward structured operational responses.
+
+The goal is to stabilize the interaction mode and prevent the typical drift toward verbose explanations.
+
+## Why
+Most LLM conversations drift over time.
+Models start structured but gradually become verbose and explanatory.
+
+H-Core Snapshot stabilizes the execution-mode.
+
 
 ## What is it
 
@@ -43,7 +43,11 @@ It locks a stable execution-mode and prevents conversational drift.
 Use as-is.
 
 ## Access
-Get access to H-Core Snapshot ($49)
+Access
+
+Price: $49
+
+Stripe checkout:
 
 Stripe checkout:  
 https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00
