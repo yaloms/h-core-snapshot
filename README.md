@@ -1,11 +1,13 @@
 # H-Core Snapshot
-A conversation snapshot that keeps ChatGPT in execution mode.
-It prevents behavioral drift and unsolicited initiative in task-oriented conversations.
+A conversation snapshot that keeps ChatGPT in execution mode
+and prevents behavioral drift in task-oriented conversations.
+
 Access is provided via a private ChatGPT link.
 
 # Demo
 Same prompt. Two conversations.
-Default ChatGPT drifts into explanation.
+Default model
+LLM drifts into explanation.
 H-Core Snapshot executes the task.
 
 Prompt:
