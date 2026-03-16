@@ -6,8 +6,7 @@ Access is provided via a private ChatGPT link.
 
 # Demo
 Same prompt. Two conversations.
-Default model
-LLM drifts into explanation.
+Default model drifts into explanation.
 H-Core Snapshot executes the task.
 
 Prompt:
