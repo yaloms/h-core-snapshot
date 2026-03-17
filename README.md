@@ -1,7 +1,8 @@
 # H-Core Snapshot
 A conversation snapshot that keeps ChatGPT in execution mode
 and prevents behavioral drift in task-oriented conversations.
-
+Unlike prompts, it initializes a persistent execution mode
+that remains stable throughout the conversation.
 Access is provided via a private ChatGPT link.
 
 # Demo
