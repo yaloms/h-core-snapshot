@@ -1,11 +1,9 @@
 # H-Core Snapshot
-A conversation snapshot that keeps ChatGPT in execution mode
-and prevents behavioral drift in task-oriented conversations.
+H-Core Snapshot locks a stable execution mode in LLM conversations.
 
-Unlike prompts, it initializes a persistent execution mode
-that remains stable throughout the conversation.
-
-Access is provided via a private ChatGPT link.
+Not a prompt.
+Not formatting.
+A behavior control mechanism.
 
 # Demo
 Same prompt. Two conversations.
@@ -21,32 +19,65 @@ How can model drift be stabilized in production systems?
 ### H-Core Snapshot
 <img width="1675" height="468" alt="Screenshot 2026-03-16 at 18-58-51 563577441-8e4f75ce-cab8-498f-bb9c-bf3635527b59 png (изображение «PNG» 1340 × 431 пикселей)" src="https://github.com/user-attachments/assets/7c8be590-1099-402e-b96b-c5325ea171b9" />
 
-## Use cases
+# What it changes
 
-• research workflows  
-• coding and debugging tasks  
-• structured analysis  
-• prompt-driven automation  
-• agent-style execution
+Default mode:
 
-## Mechanism
-The snapshot initializes a conversation with fixed behavioral constraints that bias the model toward structured operational responses.
+verbose
 
-The goal is to stabilize the interaction mode and prevent the typical drift toward verbose explanations.
+drifting
 
-## Why
-Most LLM conversations drift over time.
-Models start structured but gradually become verbose and explanatory.
-H-Core Snapshot stabilizes the execution-mode.
+inconsistent
 
+Snapshot mode:
 
-## What is it
-H-Core Snapshot is a structured conversation snapshot.
-It locks a stable execution-mode and prevents conversational drift.
-Use as-is.
+constrained
 
-## Access
-Price: $49
+operational
+
+predictable
+
+# Key idea
+
+Not input → output.
+
+execution mode → behavior over time
+
+# Where it matters
+
+long conversations
+
+multi-step tasks
+
+engineering workflows
+
+Minimal impact on single queries.
+
+# Mechanism
+
+A conversation snapshot with fixed behavioral constraints.
+
+Creates:
+
+mode locking
+
+reduced drift
+
+consistent execution
+
+Does not modify model weights or memory.
+
+# Product
+
+Private ChatGPT snapshot (link access)
+
+Price
+
+$49
+
+Core statement
+
+Locks predictable execution behavior in LLM conversations.
 
 Stripe checkout:  
 https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00
