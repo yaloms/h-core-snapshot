@@ -8,32 +8,25 @@ A behavior control mechanism.
 # Demo
 Same prompt. Two conversations.
 
-Prompt:
-How can model drift be stabilized in production systems?
+**Prompt:** How can model drift be stabilized in production systems?
 
-### Default model
-<img width="1756" height="572" alt="Screenshot 2026-03-16 at 18-58-22 559959351-bd9c7cf3-9cc7-4751-a591-36a5522b94b3 png (изображение «PNG» 1479 × 572 пикселей)" src="https://github.com/user-attachments/assets/79080287-a73c-493a-9996-80a40c8b56ee" />
+### Default
+<img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8d836c46-1fb0-416e-8c1a-8583d5fe0fbb" />
 
 ### H-Core Snapshot
-<img width="1675" height="468" alt="Screenshot 2026-03-16 at 18-58-51 563577441-8e4f75ce-cab8-498f-bb9c-bf3635527b59 png (изображение «PNG» 1340 × 431 пикселей)" src="https://github.com/user-attachments/assets/7c8be590-1099-402e-b96b-c5325ea171b9" />
+<img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
 
 # What it changes
 
 Default mode:
-
-drifting
-
-inconsistent
-
-explanation-heavy
+- drifting
+- inconsistent
+- verbose
 
 Snapshot mode:
-
-constrained
-
-operational
-
-predictable
+- constrained
+- stable
+- predictable
 
 # Key idea
 
@@ -53,6 +46,7 @@ Minimal impact on single queries.
 
 # Mechanism
 Locks execution mode via fixed behavioral constraints.
+Maintains stability across the conversation.
 
 mode locking
 
