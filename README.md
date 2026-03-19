@@ -7,8 +7,6 @@ A behavior control mechanism.
 
 # Demo
 Same prompt. Two conversations.
-Default model drifts into explanation.
-H-Core Snapshot executes the task.
 
 Prompt:
 How can model drift be stabilized in production systems?
@@ -23,11 +21,11 @@ How can model drift be stabilized in production systems?
 
 Default mode:
 
-verbose
-
 drifting
 
 inconsistent
+
+explanation-heavy
 
 Snapshot mode:
 
@@ -54,10 +52,7 @@ engineering workflows
 Minimal impact on single queries.
 
 # Mechanism
-
-A conversation snapshot with fixed behavioral constraints.
-
-Creates:
+Locks execution mode via fixed behavioral constraints.
 
 mode locking
 
@@ -65,7 +60,7 @@ reduced drift
 
 consistent execution
 
-Does not modify model weights or memory.
+No model changes. No memory extension.
 
 # Product
 
