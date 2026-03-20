@@ -15,6 +15,7 @@ Same prompt. Two conversations.
 
 ### H-Core Snapshot
 Same prompt. No additional prompts.
+Different behavior comes from execution mode.
 <img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
 
 # What it changes
