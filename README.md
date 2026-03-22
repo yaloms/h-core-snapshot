@@ -18,14 +18,15 @@ Same prompt. Two behaviors.
 
 ### Default (ChatGPT behavior)
 User is building a concrete plan.
-<img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8d836c46-1fb0-416e-8c1a-8583d5fe0fbb" />
+<img width="1397" height="731" alt="Screenshot 2026-03-21 at 11-08-54 Model Drift Monitoring Plan" src="https://github.com/user-attachments/assets/993f71d7-76ec-484c-962f-f3b2baa71652" />
+
 Default starts explaining instead of executing.
 → explains
 → expands scope
 → reframes task
 ### H-Core Snapshot
 Execution-controlled mode
-<img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
+<img width="1388" height="717" alt="Screenshot 2026-03-21 at 11-08-28 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/d2600761-1ab2-42c5-a06b-c5a5f28a48a4" />
 → executes
 → stays in structure
 → continues task
