@@ -8,6 +8,8 @@ Not a better model.
 A layer that controls how the model executes.
 
 # Demo
+You don’t change the prompt.
+You change the behavior.
 Same prompt. Two behaviors.
 
 **Prompt:** How can model drift be stabilized in production systems?
