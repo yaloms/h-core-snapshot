@@ -69,6 +69,3 @@ Not just output quality.
 If you need the model to **do, not explain** — this is for you.
 
 Locks predictable execution behavior in LLM conversations.
-
-Stripe checkout:  
-https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00
