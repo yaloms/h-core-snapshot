@@ -14,7 +14,10 @@ You change the behavior.
 
 Same prompt. Two behaviors.
 
-**Prompt:** How can model drift be stabilized in production systems?
+Default talks  
+Snapshot executes
+
+**Prompt:** Design a prodaction-ready monitoring plan for model drift in ML systems
 
 ### Default (ChatGPT behavior)
 User is building a concrete plan.
