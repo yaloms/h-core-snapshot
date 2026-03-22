@@ -18,10 +18,15 @@ Same prompt. Two behaviors.
 
 ### Default (ChatGPT behavior)
 <img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8d836c46-1fb0-416e-8c1a-8583d5fe0fbb" />
-
+→ explains
+→ expands scope
+→ reframes task
 ### H-Core Snapshot
 Execution-controlled mode
 <img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
+→ executes
+→ stays in structure
+→ continues task
 Default: explains  
 
 Snapshot: executes only
@@ -34,17 +39,12 @@ Private snapshot link.  One-time access to execution-controlled mode
 
 Stripe: https://buy.stripe.com/4gM14m2F6fZbabUch77Vm00
 
-# What it changes
+# What’s happening
 
-Default mode:
-- drifting
-- inconsistent
-- verbose
+When the direction isn’t fully specified:
 
-Snapshot mode:
-- constrained
-- stable
-- predictable
+Default → tries to find the best answer
+Snapshot → continues your solution
 
 ## Why it matters
 
