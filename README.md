@@ -15,11 +15,11 @@ Same prompt. Two behaviors.
 **Prompt:** How can model drift be stabilized in production systems?
 
 ### Default
-Default (ChatGPT behavior)
+ ChatGPT behavior
 <img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8d836c46-1fb0-416e-8c1a-8583d5fe0fbb" />
 
 ### H-Core Snapshot
-H-Core Snapshot (execution control)
+execution control
 Same prompt.
 No changes.
 
