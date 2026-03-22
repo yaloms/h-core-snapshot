@@ -5,6 +5,7 @@ Snapshot executes
 Not a prompt.
 Not formatting.
 Not a better model.
+
 You don’t need to filter through paragraphs.
 
 You get what you need to act.
