@@ -5,8 +5,9 @@ Snapshot executes
 Not a prompt.
 Not formatting.
 Not a better model.
+You don’t need to filter through paragraphs.
 
-A layer that controls how the model executes.
+You get what you need to act.
 
 # Demo
 You don’t change the prompt.
@@ -31,30 +32,22 @@ Default starts explaining instead of executing.
 ### H-Core Snapshot
 Execution-controlled mode
 <img width="1388" height="717" alt="Screenshot 2026-03-21 at 11-08-28 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/d2600761-1ab2-42c5-a06b-c5a5f28a48a4" />
-Default starts with explanation.  
-Snapshot starts with the solution.
+Default: generic, verbose  
+Snapshot: specific, usable
 
-# What’s happening
-The model doesn’t fail.
+## What changes
 
-It shifts from your task to its own interpretation.
-
-Snapshot prevents that.
-
-No expansion.  
-No reframing.  
-No extra reasoning.
-
-What changes
 Default:
-– expands scope  
-– explains before acting  
-– requires correction  
+– more text  
+– generic answers  
+– requires interpretation  
 
 Snapshot:
-– stays on task  
-– acts immediately  
-– needs no supervision  
+– less text  
+– specific outputs  
+– ready to use
+You spend less time reading  
+and more time doing
 
 ## Access
 
