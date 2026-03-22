@@ -1,8 +1,9 @@
 # H-Core Snapshot
-Forces consistent LLM behavior.
+Forces consistent execution.
 
 Not a prompt.
 Not formatting.
+Not a better model.
 
 A layer that controls how the model executes.
 
@@ -15,15 +16,17 @@ Same prompt. Two behaviors.
 <img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8d836c46-1fb0-416e-8c1a-8583d5fe0fbb" />
 
 ### H-Core Snapshot
-Same prompt. No additional prompts.
-Different behavior comes from execution mode.
+Same prompt.
+No changes.
+
+Behavior difference comes from execution control.
 <img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
-Default: explains  
-Snapshot: executes
+Default: explains
+Snapshot: executes only
 
 ## Access
 
-Private snapshot link  
+Private snapshot link.  One-time access to execution-controlled mode
 
 **$49**
 
@@ -68,4 +71,3 @@ Not just output quality.
 
 If you need the model to **do, not explain** — this is for you.
 
-Locks predictable execution behavior in LLM conversations.
