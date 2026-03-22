@@ -34,8 +34,8 @@ Default starts explaining instead of executing.
 ### H-Core Snapshot
 Execution-controlled mode
 <img width="1388" height="717" alt="Screenshot 2026-03-21 at 11-08-28 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/d2600761-1ab2-42c5-a06b-c5a5f28a48a4" />
-Default: generic, verbose  
-Snapshot: specific, usable
+Default explains  
+Snapshot gives you something to use
 
 ## What changes
 
