@@ -1,5 +1,5 @@
 # H-Core Snapshot
-Forces consistent execution.
+Forces consistent execution from the same prompt.
 
 Not a prompt.
 Not formatting.
@@ -21,7 +21,8 @@ No changes.
 
 Behavior difference comes from execution control.
 <img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
-Default: explains
+Default: explains  
+
 Snapshot: executes only
 
 ## Access
