@@ -14,8 +14,8 @@ You change the behavior.
 
 Same prompt. Two behaviors.
 
-Default talks  
-Snapshot executes
+Default - talks  
+Snapshot - executes
 
 **Prompt:** Design a prodaction-ready monitoring plan for model drift in ML systems
 
