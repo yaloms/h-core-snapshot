@@ -1,12 +1,13 @@
 # H-Core Snapshot
-H-Core Snapshot locks a stable execution mode in LLM conversations.
+Forces consistent LLM behavior.
 
 Not a prompt.
 Not formatting.
-A behavior control mechanism.
+
+A layer that controls how the model executes.
 
 # Demo
-Same prompt. Two conversations.
+Same prompt. Two behaviors.
 
 **Prompt:** How can model drift be stabilized in production systems?
 
@@ -17,6 +18,16 @@ Same prompt. Two conversations.
 Same prompt. No additional prompts.
 Different behavior comes from execution mode.
 <img width="1386" height="342" alt="Screenshot 2026-03-19 at 23-11-58 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/04bbf27f-a660-45ac-8987-39ebf516404d" />
+Default: explains  
+Snapshot: executes
+
+## Access
+
+Private snapshot link  
+
+**$49**
+
+Stripe: https://buy.stripe.com/4gM14m2F6fZbabUch77Vm00
 
 # What it changes
 
@@ -30,43 +41,32 @@ Snapshot mode:
 - stable
 - predictable
 
-# Key idea
+## Why it matters
 
-Not input → output.
-
-execution mode → behavior over time
-
-# Where it matters
-
-long conversations
-
-multi-step tasks
-
-engineering workflows
+– long conversations  
+– multi-step tasks  
+– structured workflows  
 
 Minimal impact on single queries.
 
-# Mechanism
-Locks execution mode via fixed behavioral constraints.
-Maintains stability across the conversation.
 
-mode locking
+## Mechanism
 
-reduced drift
+Locks execution mode using fixed constraints.
 
-consistent execution
+No model changes.  
+No memory tricks.
 
-No model changes. No memory extension.
 
-# Product
+## Core idea
 
-Private ChatGPT snapshot (link access)
+Controls behavior over time.  
+Not just output quality.
 
-Price
 
-$49
+## When to use
 
-Core statement
+If you need the model to **do, not explain** — this is for you.
 
 Locks predictable execution behavior in LLM conversations.
 
