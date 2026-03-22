@@ -2,6 +2,7 @@
 ChatGPT as an assistant → ChatGPT as an execution mode
 Default explains  
 Snapshot executes
+
 Not a prompt.
 Not formatting.
 Not a better model.
