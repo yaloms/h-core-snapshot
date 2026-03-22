@@ -17,7 +17,9 @@ Same prompt. Two behaviors.
 **Prompt:** How can model drift be stabilized in production systems?
 
 ### Default (ChatGPT behavior)
+User is building a concrete plan.
 <img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/8d836c46-1fb0-416e-8c1a-8583d5fe0fbb" />
+Default starts explaining instead of executing.
 → explains
 → expands scope
 → reframes task
