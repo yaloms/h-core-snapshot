@@ -1,7 +1,5 @@
 # H-Core Snapshot
-ChatGPT as an assistant → ChatGPT as an execution mode
-Default explains  
-Snapshot executes
+Stays on task
 
 Not a prompt.
 Not formatting.
