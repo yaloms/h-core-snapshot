@@ -1,13 +1,11 @@
 # H-Core Snapshot
 Stays on task
 
-Not a prompt.
-Not formatting.
-Not a better model.
+It doesn’t drift.
+It doesn’t expand the task.
+It doesn’t reinterpret what you asked.
 
-You don’t need to filter through paragraphs.
-
-You get what you need to act.
+You don’t need to steer it back.
 
 # Demo
 You don’t change the prompt.
