@@ -4,6 +4,7 @@ Stays on task
 It doesn’t drift.
 
 It doesn’t expand the task.
+
 It doesn’t reinterpret what you asked.
 
 You don’t need to steer it back.
