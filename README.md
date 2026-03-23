@@ -47,8 +47,7 @@ Snapshot:
 – specific outputs  
 – ready to use  
 – no correction needed  
-You spend less time reading  
-and more time doing
+You don’t need to correct it.
 
 ## Access
 
