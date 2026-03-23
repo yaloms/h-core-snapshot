@@ -16,8 +16,8 @@ You change the behavior.
 
 Same prompt. Two behaviors.
 
-Default - talks  
-Snapshot - executes
+Default  talks  
+Snapshot  executes
 
 **Prompt:** Design a prodaction-ready monitoring plan for model drift in ML systems
 
@@ -38,14 +38,15 @@ Execution-controlled mode
 ## What changes
 
 Default:
-– more text  
-– generic answers  
-– requires interpretation  
+– expands the task  
+– stays generic  
+– requires correction  
 
 Snapshot:
 – less text  
 – specific outputs  
-– ready to use
+– ready to use  
+– no correction needed  
 You spend less time reading  
 and more time doing
 
