@@ -33,26 +33,31 @@ Default starts explaining instead of executing.
 ### H-Core Snapshot
 Execution-controlled mode
 <img width="1388" height="717" alt="Screenshot 2026-03-21 at 11-08-28 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/d2600761-1ab2-42c5-a06b-c5a5f28a48a4" />
+Text fixes behavior for a few turns.
+Then it drifts again.
+
+This doesn’t.
+
 ## Default: explanation → interpretation → decision
 ## Snapshot: action
 
 ## What changes
 
 Default:
-– expands the task  
-– stays generic  
-– requires correction  
+– expands
+– interprets
+– requires correction
 
 Snapshot:
-– less text  
-– specific outputs  
-– ready to use  
-– no correction needed  
-You don’t need to correct it.
+– executes
+– stays within scope
+– doesn’t require correction
 
 ## Access
 
 Private snapshot link.  One-time access to execution-controlled mode
+
+For users who rely on the model to think, not to chat.
 
 **$49**
 
