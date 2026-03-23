@@ -7,7 +7,7 @@ It doesn’t expand the task.
 
 It doesn’t reinterpret what you asked.
 
-You don’t need to steer it back.
+It just does what you asked.
 
 # Demo
 You don’t change the prompt.
