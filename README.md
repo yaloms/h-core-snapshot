@@ -2,6 +2,7 @@
 Stays on task
 
 It doesn’t drift.
+
 It doesn’t expand the task.
 It doesn’t reinterpret what you asked.
 
