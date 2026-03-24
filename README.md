@@ -32,7 +32,8 @@ Default starts explaining instead of executing.
 → reframes task
 ### H-Core Snapshot
 Execution-controlled mode
-<img width="1388" height="717" alt="Screenshot 2026-03-21 at 11-08-28 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/d2600761-1ab2-42c5-a06b-c5a5f28a48a4" />
+<img width="1262" height="456" alt="Screenshot 2026-03-24 at 15-06-22 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/733b89f1-0b04-4d3c-9e3e-3b0cd7a55158" />
+
 Text fixes behavior for a few turns.
 Then it drifts again.
 
