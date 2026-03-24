@@ -24,7 +24,8 @@ Snapshot  executes
 
 ### Default (ChatGPT behavior)
 User is building a concrete plan.
-<img width="1272" height="493" alt="Screenshot 2026-03-19 at 23-01-02 Stabilizing Model Drift" src="https://github.com/user-attachments/assets/b41d636c-7aa7-45f4-a066-b04bac36ea46" />
+<img width="1617" height="447" alt="Screenshot 2026-03-24 at 16-05-45 567451105-993f71d7-76ec-484c-962f-f3b2baa71652 png (изображение «PNG» 1397 × 731 пикселей) — Масштабированное (92%)" src="https://github.com/user-attachments/assets/6b742571-2cdf-44df-9b4f-59bd9b507611" />
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
