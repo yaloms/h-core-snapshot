@@ -26,10 +26,7 @@ Snapshot  executes
 User is building a concrete plan.
 <img width="1397" height="731" alt="Screenshot 2026-03-21 at 11-08-54 Model Drift Monitoring Plan" src="https://github.com/user-attachments/assets/993f71d7-76ec-484c-962f-f3b2baa71652" />
 
-Default starts explaining instead of executing.
-→ explains
-→ expands scope
-→ reframes task
+
 ### H-Core Snapshot
 Execution-controlled mode
 <img width="1262" height="456" alt="Screenshot 2026-03-24 at 15-06-22 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/733b89f1-0b04-4d3c-9e3e-3b0cd7a55158" />
