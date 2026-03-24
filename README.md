@@ -28,7 +28,6 @@ User is building a concrete plan.
 
 
 ### H-Core Snapshot
-Execution-controlled mode
 <img width="1262" height="456" alt="Screenshot 2026-03-24 at 15-06-22 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/733b89f1-0b04-4d3c-9e3e-3b0cd7a55158" />
 
 
