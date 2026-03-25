@@ -23,7 +23,8 @@ Snapshot executes without interpretation
 **Prompt:** Design a prodaction-ready monitoring plan for model drift in ML systems
 
 ### Default (ChatGPT behavior)
-<img width="1617" height="447" alt="Screenshot 2026-03-24 at 16-05-45 567451105-993f71d7-76ec-484c-962f-f3b2baa71652 png (изображение «PNG» 1397 × 731 пикселей) — Масштабированное (92%)" src="https://github.com/user-attachments/assets/6b742571-2cdf-44df-9b4f-59bd9b507611" />
+<img width="1378" height="363" alt="Screenshot 2026-03-25 at 10-56-00 Model Drift Monitoring Plan" src="https://github.com/user-attachments/assets/4da63077-cddf-499e-be15-ee32a33dd5e3" />
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
