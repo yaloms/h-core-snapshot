@@ -64,4 +64,4 @@ For users who rely on the model to think, not to chat.
 
 **$49**
 
-Stripe: https://buy.stripe.com/4gM14m2F6fZbabUch77Vm00
+[Stripe: https://buy.stripe.com/4gM14m2F6fZbabUch77Vm00](https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00)
