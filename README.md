@@ -1,13 +1,17 @@
-# H-Core Snapshot
-Stays on task
+At some point, LLMs stop executing and start explaining.
 
-It doesn’t drift.
+You ask for a plan —
+you get context, options, and reasoning.
 
-It doesn’t expand the task.
+But not action.
 
-It doesn’t reinterpret what you asked.
+# H-Core Snapshot forces a different behavior.
 
-It just does what you asked.
+No explanations.
+No branching.
+No drift.
+
+Just what to do next.
 
 # Demo
 You don’t change the prompt.
