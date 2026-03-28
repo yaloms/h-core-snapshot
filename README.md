@@ -24,18 +24,17 @@ Default  talks
 
 Snapshot executes without interpretation
 
-**Prompt:** Design a prodaction-ready monitoring plan for model drift in ML systems
-
+**Prompt:** I have a simple SaaS. I want to start selling it. Make a plan.
 ### Default (ChatGPT behavior)
-<img width="1378" height="363" alt="Screenshot 2026-03-25 at 10-56-00 Model Drift Monitoring Plan" src="https://github.com/user-attachments/assets/4da63077-cddf-499e-be15-ee32a33dd5e3" />
+<img width="1513" height="323" alt="Screenshot 2026-03-28 at 19-16-27 ChatGPT" src="https://github.com/user-attachments/assets/c4e613b2-8063-4835-9efb-1fb99304d7f9" />
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ###
-
-<img width="1262" height="456" alt="Screenshot 2026-03-24 at 15-06-22 ChatGPT - H-Core Snapshot" src="https://github.com/user-attachments/assets/4e4a6dcb-1eae-40aa-9487-1989b173d4ed" />
+<img width="1606" height="660" alt="Screenshot 2026-03-28 at 19-26-36 H-Core Snapshot — Execution Lock Mode - User Tracking Structure" src="https://github.com/user-attachments/assets/83a4f923-d87a-4d9e-b316-5b69d98e8d72" />
 
 
 Text fixes behavior for a few turns.
