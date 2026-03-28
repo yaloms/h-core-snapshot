@@ -1,11 +1,9 @@
-At some point, LLMs stop executing and start explaining.
+You ask for a plan.
+You get talk.
 
-You ask for a plan —
-you get context, options, and reasoning.
+Not action.
 
-But not action.
-
-# H-Core Snapshot forces a different behavior.
+# H-Core Snapshot removes interpretation.
 
 No explanations.
 No branching.
@@ -14,17 +12,15 @@ No drift.
 Just what to do next.
 
 # Demo
-You don’t change the prompt.
+Same prompt.
+Different behavior.
 
-You change the behavior.
-
-Same prompt. Two behaviors.
-
-Default  talks  
-
+Default explains.
+Snapshot executes.
 Snapshot executes without interpretation
 
-**Prompt:** I have a simple SaaS. I want to start selling it. Make a plan.
+**Prompt:** Prompt:
+I have a simple SaaS. I want to start selling it. Make a plan.
 ### Default (ChatGPT behavior)
 <img width="1513" height="323" alt="Screenshot 2026-03-28 at 19-16-27 ChatGPT" src="https://github.com/user-attachments/assets/c4e613b2-8063-4835-9efb-1fb99304d7f9" />
 <img width="1532" height="571" alt="Screenshot 2026-03-28 at 22-27-51 ChatGPT" src="https://github.com/user-attachments/assets/38d046ee-69af-42fe-b602-4289a320cfe3" />
@@ -44,27 +40,21 @@ This doesn’t.
 
 Every correction costs you time.
 
-## Default: explanation → interpretation → decision
-## Snapshot: action
+## Default requires correction.
+## Snapshot doesn’t.
 
 ## What changes
 
-Default:
-– expands
-– interprets
-– requires correction
+Default → explanation → interpretation → drift  
 
-Snapshot:
-– executes
-– stays within scope
-– doesn’t require correction
+Snapshot → execution
 
 ## Access
 
 Private snapshot link.  One-time access to execution-controlled mode
 
-For users who rely on the model to think, not to chat.
+For users who need execution, not conversation.
 
-**$49**
+One-time access — **$49**
 
 [Stripe: https://buy.stripe.com/4gM14m2F6fZbabUch77Vm00](https://buy.stripe.com/4gM14m2F6fzbabUch77Vm00)
