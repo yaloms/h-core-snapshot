@@ -5,9 +5,10 @@ Not action.
 
 # H-Core Snapshot removes interpretation.
 
-No explanations. No branching. No drift.
+No explanations.
+No drift.
 
-Only what to do next
+Only actions.
 # Demo
 Same prompt.
 Different behavior.
@@ -24,6 +25,7 @@ I have a simple SaaS. I want to start selling it. Make a plan.
 <img width="1585" height="565" alt="Screenshot 2026-03-28 at 19-27-26 H-Core Snapshot — Execution Lock Mode - User Tracking Structure" src="https://github.com/user-attachments/assets/fd935e3b-d46e-496b-9a49-a0b0e2114076" />
 
 Default drifts.
+
 You correct it.
 
 Snapshot doesn’t.
